@@ -44,14 +44,15 @@ section {
   background-color: #8890a5;
 }
 
-.blue,
-.blue:focus {
-  background-color: #d88d13;
+.orange,
+.orange:focus {
+  background-color: #ff9500;
 }
 
-.blue:hover {
-  background-color: #6e79cc;
+.orange:hover {
+  background-color: #7a4d0d;
 }
+
 
 .dark,
 .dark:focus {
@@ -59,5 +60,5 @@ section {
 }
 
 .dark:hover {
-  background-color: #505266;
+  background-color: #11164b;
 }
